@@ -7,4 +7,4 @@ Hi, I'm Sharwin Patil, a passionate Robotics and Software Engineer with experien
 
 Check out my projects here on GitHub!
 
-📫 [Portfolio](https://www.sharwinpatil.info) | [LinkedIn](https://www.linkedin.com/in/sharwinpatil/)
+[Portfolio](https://www.sharwinpatil.info) | [LinkedIn](https://www.linkedin.com/in/sharwinpatil/)
