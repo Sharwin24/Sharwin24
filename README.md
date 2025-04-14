@@ -3,7 +3,7 @@ Hi, I'm Sharwin Patil, a passionate Robotics and Software Engineer with experien
 
 - Skilled in ROS/ROS2, MoveIt, C++, Python, and embedded systems
 - Experience with UAV swarms, AGV motion planning, and robotic manipulators
-- Passionate about AI-driven robotics, automation, and human-robot interaction
+- Passionate about AI-driven robotics, automation, and open source software
 
 Check out my projects here on GitHub!
 
