@@ -8,3 +8,12 @@ Hi, I'm Sharwin Patil, a passionate Robotics and Software Engineer with experien
 Check out my projects here on GitHub!
 
 [Portfolio](https://www.sharwinpatil.info) | [LinkedIn](https://www.linkedin.com/in/sharwinpatil/)
+
+
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ROS&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="20"/>  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height="20"/>
+
+<!--
+<div style="display: flex; flex-wrap: wrap;">
+    <img style="height: 170px; width: auto;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharwin24&show_icons=true&locale=en&layout=compact" alt="Sharwin24" />
+</div>
+-->
