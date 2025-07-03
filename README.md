@@ -1,9 +1,11 @@
 ### Hi there 👋
-Hi, I'm Sharwin Patil, a passionate Robotics and Software Engineer with experience in robotics, embedded systems, and AI-driven automation. Currently pursuing my Master of Science in Robotics at Northwestern University, I specialize in robot kinematics, motion planning, and real-time systems.
+Hi, I'm Sharwin Patil, a passionate Robotics and Software Engineer with experience in robotics, embedded systems, and machine learning. Currently pursuing my Master of Science in Robotics at Northwestern University, I specialize in robot kinematics, motion planning, and real-time systems.
 
 - Skilled in ROS/ROS2, MoveIt, C++, Python, and embedded systems
 - Experience with UAV swarms, AGV motion planning, and robotic manipulators
 - Passionate about AI-driven robotics, automation, and open source software
+
+At this moment, I'm working as a Planning & Controls Intern at [Locus Robotics](https://locusrobotics.com/)!
 
 Check out my projects here on GitHub!
 
