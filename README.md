@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./metrics.isocalendar.svg" align="right" width="35%" />
+<img src="./metrics.isocalendar.fulltime.svg" align="right" width="35%" />
 
 Hi, I'm Sharwin Patil, a passionate Robotics and Software Engineer with experience in robotics, embedded systems, and machine learning. I have a MS in Robotics from Northwestern University and BS in Computer Engineering & Computer Science from Northeastern University along with a Robotics Minor. I specialize in behavior and motion planning, ROS, and real-time system firmware.
 
